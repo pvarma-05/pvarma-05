@@ -24,7 +24,7 @@
 Feel free to reach out and connect with me!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pvarma5/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=aboutdotme&logoColor=white)](https://pvarma.vercel.app)  
-📧 Email: [Pradeep Varma](mailto:spvpenumatsa2@gmail.com)
+📧 Email: [spvpenumatsa2@gmail.com](mailto:spvpenumatsa2@gmail.com)
 
 ---
 
@@ -43,5 +43,4 @@ Feel free to reach out and connect with me!
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pvarma-05&theme=radical)](https://github.com/pvarma-05)
 
-
-<!-- ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer) -->
+[](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
