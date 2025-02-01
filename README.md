@@ -9,9 +9,10 @@
 ### 📊 My Stats
 
 <br>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pvarma-05&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvarma-05&layout=compact&theme=radical" alt="Top Languages"/>
+  <div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pvarma-05&show_icons=true&theme=radical" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvarma-05&layout=compact&theme=radical" alt="Top Languages"/>
+  </div>
 
 <br>
 
