@@ -4,7 +4,7 @@
 <h3>Student | Full Stack Developer | Cyber Enthusiast</h3>
 
 ### 🛠️ Tech Stack
-[![Tech Stack](https://skillicons.dev/icons?i=nextjs,mongodb,express,react,nodejs,postgres,figma,tailwind,bootstrap,materialui,jquery,vite,postman,vercel,c,py,java,html,css,js,ts,go)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=nextjs,mongodb,express,react,nodejs,postgres,figma,tailwind,bootstrap,materialui,jquery,vite,postman,vercel,docker,c,py,java,html,css,js,ts,go)](https://skillicons.dev)
 
 ### 📊 My Stats
 
