@@ -16,6 +16,6 @@
 
 <br>
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pvarma-05&theme=radical)](https://github.com/pvarma-05)
+<!-- [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pvarma-05&theme=radical)](https://github.com/pvarma-05) -->
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
