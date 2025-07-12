@@ -1,7 +1,7 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 
 <h1>👋 Hello, I'm Pradeep Varma!</h1>
-<h3>Student | Full Stack Developer | Cyber Enthusiast</h3>
+<h3>Student | Full Stack Developer</h3>
 
 ### 🛠️ Tech Stack
 [![Tech Stack](https://skillicons.dev/icons?i=nextjs,mongodb,express,react,nodejs,postgres,figma,tailwind,bootstrap,materialui,jquery,vite,postman,vercel,docker,c,py,java,html,css,js,ts,go)](https://skillicons.dev)
