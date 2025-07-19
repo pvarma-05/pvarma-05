@@ -1,6 +1,6 @@
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+<!-- ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)-->
 
-<h1>👋 Hello, I'm Pradeep Varma!</h1>
+<h1>जय बजरंग बली 🙏🏻, I'm Pradeep Varma!</h1>
 <h3>Student | Full Stack Developer</h3>
 
 ### 🛠️ Tech Stack
@@ -18,4 +18,4 @@
 
 <!-- [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pvarma-05&theme=radical)](https://github.com/pvarma-05) -->
 
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+<!-- ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer) -->
