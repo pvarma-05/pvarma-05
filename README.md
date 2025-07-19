@@ -1,6 +1,6 @@
 <!-- ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)-->
 
-<img src="banner.png" />
+<img src="new-banner.png" />
 
 <!-- <h1>🚩जय बजरंग बली 🙏🏻, I'm Pradeep Varma!</h1>
 <h3>Student | Full Stack Developer</h3>
