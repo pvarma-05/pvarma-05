@@ -1,6 +1,6 @@
 <!-- ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)-->
 
-<h1>जय बजरंग बली 🙏🏻, I'm Pradeep Varma!</h1>
+<h1>🚩जय बजरंग बली 🙏🏻, I'm Pradeep Varma!</h1>
 <h3>Student | Full Stack Developer</h3>
 
 ### 🛠️ Tech Stack
