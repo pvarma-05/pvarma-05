@@ -2,7 +2,7 @@
 
 <img src="banner.png" />
 
-<!-- <h1>🚩जय बजरंग बली 🙏🏻, I'm Pradeep Varma!</h1>
+<!-- <h1>🚩जय बजरंग बली 🙏🏻, I'm Pradeep Varma!as</h1>
 <h3>Student | Full Stack Developer</h3>
 
 ### 🛠️ Tech Stack
